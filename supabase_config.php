@@ -9,7 +9,7 @@ define(
 
 define(
     'SUPABASE_SECRET_KEY',
-    'sb_secret_fJzzgko_3XJjuwNWag29RA_o6ImaG9n'
+    'sb_secret_9i4oL4e07LNti2-Drl3aFg_WqO6MvZP'
 );
 
 define('ADMIN_EMAIL', 'kela7599@gmail.com');
